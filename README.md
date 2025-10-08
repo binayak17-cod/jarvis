@@ -1,4 +1,4 @@
-# Synbi – The Desktop AI
+# Synbi – The Desktop AI 👨🏻‍💻
 
 Synbi is an AI-powered desktop assistant that can perform tasks like opening apps, sending WhatsApp messages, controlling Spotify, taking screenshots, and fetching information from the web. It is built using Python and integrates various modules for voice and system control.
 
