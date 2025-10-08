@@ -17,4 +17,4 @@ def take_screenshot():
     # Take screenshot
     pyautogui.screenshot(file_path)
 
-    return f"Screenshot saved "
+    return f"Screenshot saved to {file_path}"

@@ -2,6 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Spotify developer credentials
+# WARNING: These should be moved to environment variables for security
+# Consider using: CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID', 'your_client_id')
 CLIENT_ID = "7e7ac65c8c4b442bbb78a7ecb55379b0"
 CLIENT_SECRET = "915cd72b31834e9c95e9427b524c8fbf"
 REDIRECT_URI = "http://127.0.0.1:5000/callback/"

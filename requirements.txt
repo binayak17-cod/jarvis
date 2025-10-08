@@ -1,0 +1,25 @@
+pyttsx3==2.90
+SpeechRecognition==3.10.0
+pyautogui==0.9.54
+wikipedia==1.4.0
+pywhatkit==5.4
+plyer==2.1.0
+spotipy==2.23.0
+requests==2.31.0
+urllib3==2.0.7
+psutil>=5.8.0
+pywin32>=227
+screen-brightness-control>=0.16.0
+pycaw>=20220416
+comtypes>=1.1.10
+selenium>=4.0.0
+# Enhanced WhatsApp desktop functionality
+glob2>=0.7
+pathlib2>=2.3.7
+
+# Gesture Control dependencies
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+
